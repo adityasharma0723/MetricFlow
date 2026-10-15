@@ -1,4 +1,4 @@
-# 📊 Operational KPI Automation & Self-Serve Analytics Platform
+# METRICFLOW
 
 Welcome to the workspace for the **Operational KPI Automation & Self-Serve Analytics Platform**! 
 
